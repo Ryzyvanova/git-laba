@@ -1,0 +1,1 @@
+export const maxus = (a, b) => a + b;
